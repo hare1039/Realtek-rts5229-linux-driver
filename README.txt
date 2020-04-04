@@ -3,6 +3,7 @@ General Information
 
 Linux driver for Realtek PCI-Express card reader chip.
 
+My blog post of setting it up: https://jet.hare1039.nctu.me/2020-04-03-Linux-Card-Reader-Driver-RTS522A/
 
 Build Steps
 ===========
